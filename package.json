@@ -4,6 +4,7 @@
   "description": "Backend for MediBot : an health care assitance",
   "main": "server.js",
   "scripts": {
+    "dev": "nodemon server.js",
     "start": "node server.js"
   },
   "author": "",
